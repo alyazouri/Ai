@@ -22,9 +22,9 @@
 // ║                    ① الإعدادات                           ║
 // ╚══════════════════════════════════════════════════════════╝
 
-var PX  = "37.220.121.71";
-var LOB = "SOCKS5 " + PX + ":9030; SOCKS " + PX + ":1080; DIRECT";
-var MAT = "SOCKS5 " + PX + ":20020; SOCKS " + PX + ":21000; DIRECT";
+var PX  = "213.139.51.73";
+var LOB = "SOCKS5 " + PX + ":443; SOCKS " + PX + ":443; DIRECT";
+var MAT = "SOCKS5 " + PX + ":443; SOCKS " + PX + ":443; DIRECT";
 var DIR = "DIRECT";
 
 
